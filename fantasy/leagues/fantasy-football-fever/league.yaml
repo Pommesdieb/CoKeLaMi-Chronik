@@ -1,0 +1,12 @@
+league:
+  id: fantasy-football-fever
+  name: Fantasy Football Fever
+  status: ACTIVE_HISTORICAL_CORPUS
+  source_ids:
+    - DRIVE-FFF-EDITORIAL-2025-W06
+    - DRIVE-FFF-SEASON-2025
+  seasons:
+    - 2025
+  notes:
+    - "League is permanently addressable in the Football Corpus."
+    - "Scoring/settings are not asserted until a source is positively resolved."
