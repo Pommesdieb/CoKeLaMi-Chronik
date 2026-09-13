@@ -1,0 +1,53 @@
+sources:
+  - id: DRIVE-FFF-EDITORIAL-2025-W06
+    title: "🏈 Fantasy Football Fever 🏈.docx"
+    carrier: GOOGLE_DRIVE
+    drive_file_id: 1CYNF7Dr0wcTIkLlYtwMJIrMqUNpC_NXu
+    kind: EDITORIAL_SOURCE
+    observed_content: "Ausgabe 12, Week 6, 2025-10-10; Matchup-/Projection-/Lineup-Kontext"
+    migration: STRUCTURED_EXCERPT_AND_PROVENANCE
+
+  - id: DRIVE-FFF-SEASON-2025
+    title: "Fantasy Football / Season 2025"
+    carrier: GOOGLE_DRIVE
+    drive_folder_id: 152mPkjVENPNBB425zEMg877Cd9BeMU9j
+    kind: HISTORICAL_SEASON_EVIDENCE
+    children:
+      - title: Final_Playoff_Results.png
+        drive_file_id: 15hvJzF3eGwMvH5WiGRrsvC-xXUska4XM
+      - title: podium.png
+        drive_file_id: 1a-fm4p7ezdUqSWD4e4jkVZGuUZ43FBS7
+    migration: PROVENANCE_PRESERVED_CONTENT_NOT_TRANSCRIBED_WITHOUT_VERIFIED_READ
+
+  - id: DRIVE-FFF-DRAFT-BIG-BOARD-2026
+    title: Fantasy Football Draft Big Board
+    carrier: GOOGLE_SHEETS
+    spreadsheet_id: 11h3w6WvKS1Sah_4hrKv81ToL8J7EpPUDNX7XE2era84
+    sheet: "2026"
+    kind: DRAFT_RESEARCH
+    observed_content: "2025 NFL receiving/route/separation metrics used as 2026 draft research"
+    migration: STRUCTURE_AND_RESEARCH_SNAPSHOT
+
+  - id: DRIVE-SMARTDRAFT-2025
+    title: Kopie von SmartDraft 2025
+    carrier: GOOGLE_SHEETS
+    spreadsheet_id: 1VsAdCr1zoyFa0OGO6oamp7bzfVQ1XPR8qwFK5h7Z0Rk
+    kind: DRAFT_TOOL_SOURCE
+    observed_tabs: [Draft Board, Auction Draft Board, Keepers, Drafted, Best Available, Auto Data Import, Manual Data Override, Data Format, Backup, Misc, About]
+    migration: PROVENANCE_AND_SCHEMA_REFERENCE
+
+  - id: REPO-LEGACY-W01-2025
+    title: 2025-W01-REG-HEX-vs-HHD.json
+    carrier: GITHUB
+    repository: Pommesdieb/CoKeLaMi-Chronik
+    path: data/matchups/2025/regular/2025-W01-REG-HEX-vs-HHD.json
+    kind: LEGACY_MATCHUP_PLACEHOLDER
+    observed_size_bytes: 1
+    migration: PRESERVED_IN_PLACE
+
+search_notes:
+  drive_queries:
+    - Fantasy Football
+    - Fantasy Football Fever Week
+    - Hercynian Hagazussa
+  repository_inventory_date: 2026-09-13
