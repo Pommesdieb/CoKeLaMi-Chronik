@@ -1,0 +1,26 @@
+week: 6
+season: 2025
+league_id: fantasy-football-fever
+snapshot_date: 2025-10-10
+fact_type: SNAPSHOT
+source_id: DRIVE-FFF-EDITORIAL-2025-W06
+matchups:
+  - home_team: HEX
+    away_team: ERE
+    observed_score: {HEX: 7.7, ERE: 20.62}
+    projection: {HEX: 119.5, ERE: 126.2}
+    win_chance_pct: {HEX: 47, ERE: 53}
+    observed_players:
+      HEX: [Saquon Barkley, Josh Allen, Josh Jacobs, Kyren Williams, Davante Adams, Jaxon Smith-Njigba, Brandon McManus, Deebo Samuel, Javonte Williams]
+      ERE: [Jalen Hurts, Bijan Robinson, Jonathan Taylor, James Cook, Garrett Wilson, Brock Bowers]
+  - home_team: BBR
+    away_team: HHD
+    observed_score: {BBR: 0.0, HHD: 0.0}
+    projection: {BBR: 129.0, HHD: 122.7}
+    win_chance_pct: {BBR: 54, HHD: 46}
+    observed_players:
+      BBR: [Puka Nacua, Amon-Ra St. Brown, Emeka Egbuka, Ashton Jeanty, J.K. Dobbins, A.J. Brown]
+      HHD: [Patrick Mahomes, Christian McCaffrey, Jahmyr Gibbs, Jaylen Waddle, Sam LaPorta, Drake London, Alvin Kamara, Travis Kelce]
+notes:
+  - "This is a dated editorial/projection snapshot, not a final-result assertion."
+  - "Player membership reflects the source's lineup/bench discussion at that snapshot and must not be generalized beyond the dated context."
