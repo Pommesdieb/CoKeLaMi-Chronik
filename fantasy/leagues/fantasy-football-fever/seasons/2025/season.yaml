@@ -1,0 +1,28 @@
+season:
+  league_id: fantasy-football-fever
+  year: 2025
+  state: HISTORICAL
+  evidence:
+    editorial_source: DRIVE-FFF-EDITORIAL-2025-W06
+    playoff_artifact_source: DRIVE-FFF-SEASON-2025
+  observed_week_6_teams:
+    - id: HEX
+      name: Hercynian Hagazussa
+      record_before_or_during_week_6: 0-5-0
+    - id: ERE
+      name: Erbstorf Eyrie
+      manager_observed: Lars
+      record_before_or_during_week_6: 3-2-0
+    - id: BBR
+      name: Baltic Broncos
+      manager_observed: Kevin Steinhardt
+      record_before_or_during_week_6: 4-1-0
+    - id: HHD
+      name: Hannover Heralds
+      record_before_or_during_week_6: 3-2-0
+  playoff_evidence:
+    final_results_image_drive_id: 15hvJzF3eGwMvH5WiGRrsvC-xXUska4XM
+    podium_image_drive_id: 1a-fm4p7ezdUqSWD4e4jkVZGuUZ43FBS7
+    transcription_state: NOT_ASSERTED_WITHOUT_VERIFIED_IMAGE_CONTENT
+  legacy_repository_evidence:
+    - data/matchups/2025/regular/2025-W01-REG-HEX-vs-HHD.json
